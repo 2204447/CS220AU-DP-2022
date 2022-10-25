@@ -33,4 +33,4 @@ How to use this GitHub repository as a template for your submission, including h
 ## TODO
 ### in week 3
 - copy my notes into my private repository 
-- brainstorming ideas for my research questions 
+- brainstorming ideas for my research question 
