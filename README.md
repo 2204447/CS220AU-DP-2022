@@ -25,12 +25,17 @@ How to use this GitHub repository as a template for your submission, including h
 <br>
 
 ## Log
-
+- 2022-10-11 Had an overview of the module - syllabus and assessments 
+- 2022-10-11 Watched videos on digital identities
 - 2022-10-18 I created a github account with two repositories 
 
 <br>
 
 ## TODO
 ### in week 3
-- copy my notes into my private repository 
-- brainstorming ideas for my research question 
+- copy my notes on the three videos into my private repository 
+- brainstorm ideas for my research question 
+
+Week 4 
+- Create my VR map 
+- link digital identities and existential crisis for my research question  
