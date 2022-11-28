@@ -25,7 +25,8 @@ How to use this GitHub repository as a template for your submission, including h
 <br>
 
 ## Log
-- 2022-11-15 Created a rough draft of my website 
+- 
+- 2022-11-15 Created my research question  
 - 2022-11-06 Created my VR map which helped me link digital identities and existential risks 
 - 2022-11-06 Copied my notes on the three videos into my private repository 
 - 2022-10-11 Had an overview of the module - syllabus and assessments 
