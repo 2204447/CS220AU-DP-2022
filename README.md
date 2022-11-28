@@ -25,7 +25,9 @@ How to use this GitHub repository as a template for your submission, including h
 <br>
 
 ## Log
-- 
+- 2022-11-27 Added more information to my plan for my website
+- 2022-11-20 Created a plan for my website 
+- 2022-11-15 Found a partner for my peer assessment
 - 2022-11-15 Created my research question  
 - 2022-11-06 Created my VR map which helped me link digital identities and existential risks 
 - 2022-11-06 Copied my notes on the three videos into my private repository 
@@ -36,6 +38,19 @@ How to use this GitHub repository as a template for your submission, including h
 <br>
 
 ## TODO
+Week 8 
+- Add more information to the plan of website 
+- Create a rough draft for the website
+
+Week 7 
+- Create a plan for the content of the website and what methods I am going to use to gather data (surveys, interviews...) 
+
+Week 6 
+- Find a partner for the peer-assessment 
+- Choose how I want the layout of my website to be using the examples given in class
+
+Week 5 
+- Create a research question 
 
 Week 4 
 - Create my VR map 
