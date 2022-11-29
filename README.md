@@ -68,6 +68,11 @@ Digital links specific to AI
 
 How can I help others gain a better understanding of the connection between the use of their digital identities and AI? 
 
+Keywords: 
+Privacy 
+Digital identities 
+Social Media 
+Data 
 
 AI – artificial intelligence is software used by computers to mimic aspects of human intelligence 
 (AI safety can be defined as a way to ensure that AI is deployed in ways thatdo not harm humanity) 
@@ -101,7 +106,7 @@ e.g., While searching on google one cannot hide their interests – cannot searc
 
 Why is this an issue? Data being easily accessed can lead to: 
 Identity theft
--	Personal data is easily available it becomes easier hackers to use this information to reset passwords, apply for loans 
+-	Personal data is easily available it becomes easier for hackers to use this information to reset passwords, apply for loans 
 e.g., fake accounts on Instagram, catfishing 
 
 Phishing
@@ -113,12 +118,12 @@ Phishing
 
 (Mental health affected by digital identities? - How people portray themselves online is not them in reality) 
 
-Survey to explore and see how many people overlook some of the important information which creates a threat to their privacy (represent the results in a pie chart) 
+Survey to explore and see how many people overlook some of the important information which creates a threat to their privacy (represent the results in a pie chart using google forms) 
 
 Survey questions: 
 1.	When downloading new apps or updates do you read through the terms and conditions? 
 2.	When visiting websites online do you accept all the cookies or only allow the necessary ones? 
 3.	Do you use the same password for all social accounts? 
 4.	How often do you update your mobile devices and laptops?  (Recent updates help in protecting data as the devices are less susceptible to viruses) 
-5.	 
+5.	
 
