@@ -125,5 +125,5 @@ Survey questions:
 2.	When visiting websites online do you accept all the cookies or only allow the necessary ones? 
 3.	Do you use the same password for all social accounts? 
 4.	How often do you update your mobile devices and laptops?  (Recent updates help in protecting data as the devices are less susceptible to viruses) 
-5.	
+5.	Do you often upload images of yourselve on your social media accounts? 
 
