@@ -60,14 +60,10 @@ Week 3
 - copy my notes on the three videos into my private repository 
 - brainstorm ideas for my research question  
 
+<br>
 
+## Website Plan
 
-
-
-
-
-
-Website Plan: 
 Digital links specific to AI
 
 How can I help others gain a better understanding of the connection between the use of their digital identities and AI? 
