@@ -24,9 +24,8 @@ Below you see an example of embedding an image that is found in another reposito
 
 Make sure you check out the [Markdown language](https://guides.github.com/features/mastering-markdown/) guide. 
 
-<br>
 
-Website Plan
+## Website Plan
 
 Digital links specific to AI
 
