@@ -90,3 +90,8 @@ Survey questions:
 4.	How often do you update your mobile devices and laptops?  (Recent updates help in protecting data as the devices are less susceptible to viruses) 
 5.	Do you often upload images of yourselve on your social media accounts? 
 
+
+Machine learning: 
+- How AI is going to 'take' over humanity, walle 
+
+
