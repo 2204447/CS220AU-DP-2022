@@ -37,6 +37,9 @@ Digital identities
 Social Media 
 Data 
 
+How is privacy related to an existential risk? 
+
+
 AI – artificial intelligence is software used by computers to mimic aspects of human intelligence 
 (AI safety can be defined as a way to ensure that AI is deployed in ways thatdo not harm humanity) 
 
@@ -79,7 +82,7 @@ Phishing
 (Regardless of being a resident or a visitor data is collected and stored about you) - introduction page will have my VR map which I will use to link to privacy later on 
 
 
-(Mental health affected by digital identities? - How people portray themselves online is not them in reality) 
+(Mental health affected by digital identities? - How people portray themselves online is not the reality) 
 
 Survey to explore and see how many people overlook some of the important information which creates a threat to their privacy (represent the results in a pie chart using google forms) 
 
