@@ -34,6 +34,9 @@ From my VR map I would conclude that I am more of a resident than a visitor beca
 
 ### Existential risk is defined as a risk that threatens the destruction of humanity in the long-term. The advancement of technology or specifically artificial intelligence has led to many saying that 'AI will take over the world'.
 
+![image](https://user-images.githubusercontent.com/116067832/213166032-6bc2dcec-c727-4db3-8479-4b0d64846b6e.png)
+ 
+
 <details> 
   <summary>What is AGI?</summary>
   AGI, also known as Artificial General Intelligence, is software with human cognitive abilities which enables it to solve problems when presented with a new task. Its goal is to carry out every task that a human being is capable of. Characteristics that an AGI has is common sense, background and transfer knowledge, abstract thinking and causality.  
