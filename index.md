@@ -45,7 +45,7 @@ From my VR map I would conclude that I am more of a resident than a visitor beca
   
   </details>
   
-  ## Link between AGI and Digital Identities 
+ Link between AGI and Digital Identities 
  
  <details>
   <summary>Threats to AGI and Digital Identities</summary>
