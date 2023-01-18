@@ -94,7 +94,6 @@ AGI was developed to address issues where humans are inefficient. AGI is attempt
   
   
 
-
          
 
 ## References
