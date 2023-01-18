@@ -4,9 +4,7 @@
 
 <details>
   <summary>What are digital identities?</summary>
-  Digital identities are a collection of data about a person or organisation that is present online. When using online services or conducting transactions, they offer a safe and secure means to prove your identity. It is no longer necessary to confirm your identification in person or with paper documents thanks to digital ID’s.
-  
-  Digital identities consist of personal details such as your name, birth date, email address and may require you to create a username and password for the platform your using. Examples of applications that use digital identities are Snapchat, Instagram, LinkedIn, Twitter etc. 
+  Digital identities are a collection of data about a person or organisation that is present online. When using online services or conducting transactions, they offer a safe and secure means to prove your identity. It is no longer necessary to confirm your identification in person or with paper documents thanks to digital ID’s. Digital identities consist of personal details such as your name, birth date, email address and may require you to create a username and password for the platform your using. Examples of applications that use digital identities are Snapchat, Instagram, LinkedIn, Twitter etc. 
   
   </details>
   
@@ -35,23 +33,69 @@ From my VR map I would conclude that I am more of a resident than a visitor beca
   <summary>What is AGI?</summary>
   AGI, also known as Artificial General Intelligence, is software with human cognitive abilities which enables it to solve problems when presented with a new task. Its goal is to carry out every task that a human being is capable of. Characteristics that an AGI has is common sense, background and transfer knowledge, abstract thinking and causality.  
 
-   A very well-known form AGI is self-driving cars. More examples of AGI can be found [here] (https://www.techtarget.com/searchenterpriseai/definition/artificial-general-intelligence-AGI#:~:text=IBM's%20Watson%20supercomputer%2C%20expert%20systems,examples%20of%20narrow%20artificial%20intelligence) 
+   A very well-known form AGI is self-driving cars. 
+  More examples of AGI can be found [here](https://www.techtarget.com/searchenterpriseai/definition/artificial-general-intelligence-AGI#:~:text=IBM's%20Watson%20supercomputer%2C%20expert%20systems,examples%20of%20narrow%20artificial%20intelligence) 
   
   </details>
 
 
+<details>
+  <summary>How is AGI an existential risk?</summary>
+  All AI have access to enormous amounts of data, which AGI uses to gather knowledge, comprehend situations, and develop solutions just like a person would. When AGI undergoes an "intelligence explosion" and develops the capacity to design and alter both other machines and itself, it poses a massive threat. AGI would be capable of realising that humans pose the greatest harm to themselves, and it would “take matters into its own hand” in this situation with the ability to edit or control other machines. It may find humans to be a burden or believe that we are detrimental to the moral advancement of the cosmos and therefore plan our extinction. 
+  
+  </details>
+  
+  ## Link between AGI and Digital Identities 
+ 
+ <details>
+  <summary>Threats to AGI and Digital Identities</summary>
+  There is no direct connection between digital identities and AGI, since AGI is regarded as an existential risk it can also be seen as a threat to digital identities. To understand the indirect link between AGI and digital identities we can look at the biggest threats to digital identities. 
+This is when people obtain access to private information, when businesses use cookies to sell or buy data, and being monitored. 
+  
+  </details>
+
+  <details>
+    <summary>Threat to privacy</summary>
+    Companies will use the information you consciously or unknowingly provide about your age, gender, location, and preferences to analyse it and customise your experience or they may sell your data in the form of website cookies.
+    
+ </details>
+  
+    
+  <details>
+    <summary>How is our data accessed?</summary>
+      Smartphones, the internet, and surveillance cameras are used to access our data. By creating digital identities on TikTok, Instagram, and Snapchat, we unwittingly reveal personal information.
+  
+e.g., posting pictures on social media of a place we visited or food we ate.   
+e.g., accepting terms and conditions without even reading it (its long and not easy to read) – google and Facebook own every message, image or video that is uploaded and could potentially sell this information to other companies.
+e.g., While searching on google one cannot hide their interests – cannot search without typing the words in. Intimate interests are not private anymore: political views, sexual orientation, and health.
+    
+  </details>
+  
+
+<details>
+  <summary>Data being easily accessed can lead to</summary>
+  Identity theft: It's simple to access personal information, hackers can use this information to apply for loans and reset passwords with ease.  
+e.g., fake accounts on Instagram, catfishing 
+
+Phishing:
+Attackers may use your account and information to send misleading emails or entice people to click on links in order to steal sensitive information from  you and your company.
+        
+  </details>
 
 
+<details>
+  <summary>What does this mean for AGI and digital identities?</summary>
+  
+ As AGI is created to solve problems where human efficiency is low. As mentioned before AGI is trying to replicate the humans mind in thought process. This means that it would most likely be used to solve some of the planets biggest problems such as climate change, world hunger and wars and military conflict. The AGI would recognise that we are the cause of our own problems and therefore may decide that the survival of the human species is not needed or choose a select few to continue on the species. 
+
+AGI was developed to address issues where humans are inefficient. AGI is attempting to mimic the way the human mind thinks, as was previously mentioned. This indicates that technology would likely be employed to address some of the planet's most pressing issues, including global warming, starvation, war, and armed conflict. The AGI would understand that we are the root of our own problems and might determine that it is not necessary for the human species to survive or may choose a small number of individuals to carry on the species. Similar to this, AGI may be used to address the dangers to our digital identity's privacy, but doing so may also reveal how vindictive and destructive human beings are, as well as the reality that they will go to any lengths to make money, including stealing your data even if doing so compromises you. The process will then be repeated.
+  
+  </details>
+  
+  
 
 
-
-
-
-
-
-
-
-
+        
 
 
 
@@ -76,82 +120,5 @@ Below you see an example of embedding an image that is found in another reposito
 ## Embedding video players
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lfPJ7Tz4JGs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-## More examples
-
-Make sure you check out the [Markdown language](https://guides.github.com/features/mastering-markdown/) guide. 
-
-
-## Website Plan
-
-Digital links specific to AI
-
-How can I help others gain a better understanding of the connection between the use of their digital identities and AI? 
-
-Keywords: 
-Privacy 
-Digital identities 
-Social Media 
-Data 
-
-How is privacy related to an existential risk? 
-
-
-AI – artificial intelligence is software used by computers to mimic aspects of human intelligence 
-(AI safety can be defined as a way to ensure that AI is deployed in ways thatdo not harm humanity) 
-
-Digital identity – body of information about an individual, organization or electronic device that exists online
--	It’s a way to prove your identity in a safe and secure way when accessing services or completing transactions online. 
--	Removes the need to prove your identity through face-to-face interactions and physical documents 
-
-
-How AI helps with privacy: 
--	Artificial intelligence is playing an increasingly important role in cybersecurity for apps 
--	Organizations use AI-based tools to better detect threats and protect their systems and data resources and thereby protecting us as well 
--	E.g., passwords, multi-factor authentication, face-recognition 
-
-How I use AI for security (specifically looking at how my personal identities on social media) 
--	Using face-recognition 
--	Passwords which are linked to email accounts incase of breach’s 
-
-Issues with AI and how it affects digital identities: 
-
-Threat to privacy – unknowingly or unwillingly giving data such as your age, gender, location, and preferences 
--	Companies use your data to analyse it and customise an experience, potentially could sell your data (Website cookies) 
-
-
-How is our data accessed:
--	Cameras (surveillance), smartphones, and the internet 
--	By creating digital identities on Instagram, snapchat, and TikTok we unconsciously reveal personal data 
-e.g., posting pictures on social media of a place we visited or food we ate  
-e.g., accepting terms and conditions without even reading it (its long and not easy to read) – google and Facebook own every message, image or video that is uploaded and could potentially sell this information to other companies 
-e.g., While searching on google one cannot hide their interests – cannot search without typing the words in. Intimate interests are not private anymore: political views, sexual orientation, and health 
-
-Why is this an issue? Data being easily accessed can lead to: 
-Identity theft
--	Personal data is easily available it becomes easier for hackers to use this information to reset passwords, apply for loans 
-e.g., fake accounts on Instagram, catfishing 
-
-Phishing
-- attackers can use your account/information to trick others into clicking on links or creating deceptive emails which aim to steal confidential or     corporate information 
-
-
-(Regardless of being a resident or a visitor data is collected and stored about you) - introduction page will have my VR map which I will use to link to privacy later on 
-
-
-(Mental health affected by digital identities? - How people portray themselves online is not the reality) 
-
-Survey to explore and see how many people overlook some of the important information which creates a threat to their privacy (represent the results in a pie chart using google forms) 
-
-Survey questions: 
-1.	When downloading new apps or updates do you read through the terms and conditions? 
-2.	When visiting websites online do you accept all the cookies or only allow the necessary ones? 
-3.	Do you use the same password for all social accounts? 
-4.	How often do you update your mobile devices and laptops?  (Recent updates help in protecting data as the devices are less susceptible to viruses) 
-5.	Do you often upload images of yourselve on your social media accounts? 
-
-
-Machine learning: 
-- How AI is going to 'take' over humanity, walle 
 
 
