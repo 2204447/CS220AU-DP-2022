@@ -25,6 +25,10 @@ How to use this GitHub repository as a template for your submission, including h
 <br>
 
 ## Log
+- 2023-01-18 Finished up some finishing touches to the website 
+- 2023-01-18 Meet with my peer to assess each others website 
+- 2023-01-17 Added my content to my website using the markdown language
+- 2022-12-04 Turned my plan into proper content for my website
 - 2022-11-27 Added more information to my plan for my website
 - 2022-11-20 Created a plan for my website 
 - 2022-11-15 Found a partner for my peer assessment
@@ -38,5 +42,4 @@ How to use this GitHub repository as a template for your submission, including h
 <br>
 
 ## TODO
-Week 9 
-- Finalise content for the website 
+- Submit the portfolio tomorrow
