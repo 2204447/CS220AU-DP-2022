@@ -11,7 +11,7 @@ GitHub repository URL: <!-- #todo : add the URL of your repository -->
 I made sure that
 
 - [x] my GitHub username matches my student number;
-- [x] my repository to submit is named 'CS220AU-portfolio-2022'.
+- [x] my repository to submit is named 'CS220AU-DP-2022'.
 
 ### Website
 - [x] I used the website to explore the theme given.
