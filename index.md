@@ -62,6 +62,12 @@ This is when people obtain access to private information, when businesses use co
   
   </details>
 
+
+![image](https://user-images.githubusercontent.com/116067832/213167824-8246502d-e683-4186-b766-a0020ce0f5df.png)
+
+
+
+
   <details>
     <summary>Threat to privacy</summary>
     Companies will use the information you consciously or unknowingly provide about your age, gender, location, and preferences to analyse it and customise your experience or they may sell your data in the form of website cookies.
