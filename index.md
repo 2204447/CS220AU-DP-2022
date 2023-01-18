@@ -5,6 +5,12 @@
 <details>
   <summary>What are digital identities?</summary>
   Digital identities are a collection of data about a person or organisation that is present online. When using online services or conducting transactions, they offer a safe and secure means to prove your identity. It is no longer necessary to confirm your identification in person or with paper documents thanks to digital ID’s.![image](https://user-images.githubusercontent.com/116067832/213136593-9355d0fb-de63-4894-9432-b50488bb3110.png)
+  
+  Digital identities consist of personal details such as your name, birth date, email address and may require you to create a username and password for the platform your using. Examples of applications that use digital identities are Snapchat, Instagram, LinkedIn, Twitter etc. 
+  
+Humanity has grown more reliant on technology, particularly cell phones and laptops, as it has developed. This dependence results in a "presence," or more accurately, a trace, being left behind. Through digital engagement, digital identities play a significant part in building these presences. A mapping method that includes visitors and residents can be used to gauge this engagement. A visitor on this map is someone who is trying to accomplish something while leaving no trace behind, such as finding information or making travel arrangements. Being a resident, on the other hand, means making the decision to use the internet and interact with others. Part of being a resident is publishing videos and images of yourself and expressing your opinion on social media creating a digital footprint. As these platforms can be used for both personal and professional purposes, there is also a personal and institutional spectrum on the map.
+
+
   </details>
   
 
