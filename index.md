@@ -2,14 +2,11 @@
 
 ## Digital Identities 
 
-### <details><summary>What are digital identities?</summary>
-  <p>
-    
-#### Digital identities are a collection of data about a person or organisation that is present online. When using online services or conducting transactions, they offer a safe and secure means to prove your identity. It is no longer necessary to confirm your identification in person or with paper documents thanks to digital ID’s.
-
-Digital identities consist of personal details such as your name, birth date, email address and may require you to create a username and password for the platform your using. Examples of applications that use digital identities are Snapchat, Instagram, LinkedIn, Twitter etc.
-    
-  </p>
+### <details>
+  <summary>What are digital identities?</summary>
+ Digital identities are a collection of data about a person or organisation that is present online. When using online services or conducting transactions, they offer a safe and secure means to prove your identity. It is no longer necessary to confirm your identification in person or with paper documents thanks to digital ID’s. 
+ Digital identities consist of personal details such as your name, birth date, email address and may require you to create a username and password for the platform your using. Examples of applications that use digital identities are Snapchat, Instagram, LinkedIn, Twitter etc.
+  
   </details>
   
   
