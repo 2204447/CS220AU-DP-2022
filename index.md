@@ -71,23 +71,15 @@ This is when people obtain access to private information, when businesses use co
   <details>
     <summary>Threat to privacy</summary>
     Companies will use the information you consciously or unknowingly provide about your age, gender, location, and preferences to analyse it and customise your experience or they may sell your data in the form of website cookies.
-    
- </details>
   
-    
-  <details>
-    <summary>How is our data accessed?</summary>
+ How is our data accessed?
       Smartphones, the internet, and surveillance cameras are used to access our data. By creating digital identities on TikTok, Instagram, and Snapchat, we unwittingly reveal personal information.
   
 e.g., posting pictures on social media of a place we visited or food we ate.   
 e.g., accepting terms and conditions without even reading it (its long and not easy to read) – google and Facebook own every message, image or video that is uploaded and could potentially sell this information to other companies.
 e.g., While searching on google one cannot hide their interests – cannot search without typing the words in. Intimate interests are not private anymore: political views, sexual orientation, and health.
-    
-  </details>
   
-
-<details>
-  <summary>Data being easily accessed can lead to</summary>
+Data being easily accessed can lead to:
   Identity theft: It's simple to access personal information, hackers can use this information to apply for loans and reset passwords with ease.  
 e.g., fake accounts on Instagram, catfishing 
 
