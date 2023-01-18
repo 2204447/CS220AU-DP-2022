@@ -29,7 +29,16 @@ From my VR map I would conclude that I am more of a resident than a visitor beca
 
 ## Existential risk - AGI 
 
-### Existential risk is defined as a risk that threatens the destruction of humanity in the long-term. The advancement of technology or specifically artificial intelligence has led to many saying that AI will take over the world.  
+### Existential risk is defined as a risk that threatens the destruction of humanity in the long-term. The advancement of technology or specifically artificial intelligence has led to many saying that 'AI will take over the world'.
+
+<details> 
+  <summary>What is AGI?</summary>
+  AGI, also known as Artificial General Intelligence, is software with human cognitive abilities which enables it to solve problems when presented with a new task. Its goal is to carry out every task that a human being is capable of. Characteristics that an AGI has is common sense, background and transfer knowledge, abstract thinking and causality.  
+
+   A very well-known form AGI is self-driving cars. More examples of AGI can be found [here] (https://www.techtarget.com/searchenterpriseai/definition/artificial-general-intelligence-AGI#:~:text=IBM's%20Watson%20supercomputer%2C%20expert%20systems,examples%20of%20narrow%20artificial%20intelligence) 
+  
+  </details>
+
 
 
 
