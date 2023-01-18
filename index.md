@@ -25,13 +25,32 @@ From my VR map I would conclude that I am more of a resident than a visitor beca
   </details>
   
   
-  
-  
+   
+
+## Existential risk - AGI 
+
+### Existential risk is defined as a risk that threatens the destruction of humanity in the long-term. The advancement of technology or specifically artificial intelligence has led to many saying that AI will take over the world.  
 
 
-Use [Markdown language](https://guides.github.com/features/mastering-markdown/) to add information to your website. 
 
-## Hyperlinks
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 [This](dp-checklist.md) is an internal link to another page on your site. 
 
 And [this](https://duckduckgo.com/?q=existential+risks&t=brave&ia=web&iai=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DdzlxU3g7hUY) is an external link to web page on another website. 
