@@ -55,12 +55,8 @@ From my VR map I would conclude that I am more of a resident than a visitor beca
   
 ## Link between AGI and Digital Identities 
  
- <details>
-  <summary>Threats to AGI and Digital Identities</summary>
-  There is no direct connection between digital identities and AGI, since AGI is regarded as an existential risk it can also be seen as a threat to digital identities. To understand the indirect link between AGI and digital identities we can look at the biggest threats to digital identities. 
-This is when people obtain access to private information, when businesses use cookies to sell or buy data, and being monitored. 
+There is no direct connection between digital identities and AGI, since AGI is regarded as an existential risk it can also be seen as a threat to digital identities. To understand the indirect link between AGI and digital identities we can look at the biggest threats to digital identities. This is when people obtain access to private information, when businesses use cookies to sell or buy data, and being monitored. 
   
-  </details>
 
 
 ![image](https://user-images.githubusercontent.com/116067832/213167824-8246502d-e683-4186-b766-a0020ce0f5df.png)
