@@ -17,6 +17,7 @@ Digital identities are a collection of data about a person or organisation that 
   <summary>Digital engagement map</summary>
   Humanity has grown more reliant on technology, particularly cell phones and laptops, as it has developed. This dependence results in a "presence," or more accurately, a trace, being left behind. Through digital engagement, digital identities play a significant part in building these presences. A mapping method (White & Cornu, 2011) that includes visitors and residents can be used to gauge this engagement. A visitor on this map is someone who is trying to accomplish something while leaving no trace behind, such as finding information or making travel arrangements. Being a resident, on the other hand, means making the decision to use the internet and interact with others. Part of being a resident is publishing videos and images of yourself and expressing your opinion on social media creating a digital footprint. As these platforms can be used for both personal and professional purposes, there is also a personal and institutional spectrum on the map.
   
+  <br />
   
   
    
